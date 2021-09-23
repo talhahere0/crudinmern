@@ -1,0 +1,34 @@
+.EditDeleteTable{
+    width: 1300px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.EditDeleteTitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size:60px;
+    margin-left: 260px;
+    
+}
+.EditUser{
+    padding:5px 10px;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+}
+.DeleteBtn{
+    padding:5px 10px;
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+.EditUserBtn{
+    border:none;
+    background-color:green;
+    color: white;
+    border-radius: 5px;
+    padding:5px 10px;
+    font-weight: 500;
+}

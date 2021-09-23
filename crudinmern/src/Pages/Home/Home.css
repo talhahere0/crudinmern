@@ -1,0 +1,51 @@
+.CreateUser{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    width:500px;
+    height:500px;
+    margin-left: 550px;
+    margin-top: 50px;
+    border-radius: 5px;
+    box-shadow: -1px 4px 19px 0px rgba(0, 0, 0, 0.082);
+    -webkit-box-shadow: -1px 4px 19px 0px rgba(0, 0, 0, 0.116);
+    -moz-box-shadow: -1px 4px 19px 0px rgba(0, 0, 0, 0.178);
+}
+.CreateUserTitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size:50px;
+}
+.CreateUser>label{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.CreateUserInput{
+    width: 250px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    border: 2px solid rgba(128, 128, 128, 0.521);
+
+}
+.CreateUserBtn{
+    font-family: 'Montserrat', sans-serif;
+    padding:7px;
+    width: 100px;
+    margin-top: 20px;
+    border: none;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+
+}
+.CreateUserLink{
+    text-decoration: none;
+    color:white
+    
+}
+.CreateUserLink:hover{
+    color:white
+    
+}
